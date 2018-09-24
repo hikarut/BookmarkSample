@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "BookmarkSample",
+    "slug": "BookmarkSample",
+    "sdkVersion": "27.0.0",
+    "icon": "./img/icon.png",
+    "splash": {
+      "backgroundColor": "#ffffff",
+      "image": "./img/splash.png"
+    }
+  }
+}
